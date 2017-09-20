@@ -1,0 +1,5 @@
+git-flow-completion-git
+html2text-with-utf8
+brackets-bin
+grunt-cli
+nodejs-grunt

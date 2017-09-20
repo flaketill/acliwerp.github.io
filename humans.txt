@@ -1,0 +1,34 @@
+/* TEAM */
+
+UI Developer: erpmtics                            
+Site: armandoibarra1@gmail.com                            
+Twitter: erpmtics                          
+Location: Chihuahua, Mexico
+
+	author: Ing. Armando Ibarra
+	Design: Ing. Armando Ibarra + Twitter Bootstrap 
+
+	UI developer: 
+	Twitter: @
+	From:
+
+	Web designer: 
+	Twitter: @
+	From:
+                                        					
+/* THANKS */
+					
+Name: 
+
+Twitter Bootstrap 
+Google app engine
+Python
+				
+                            
+/* SITE */
+
+Last update: 2017/09/19                   
+Standards: XHTML Strict v1.0, CSS 2.1, Javascript, JSON          
+Components: Modernizr, jQuery, Backbone
+IDE: Sublime Text, FileZilla
+
